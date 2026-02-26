@@ -1,5 +1,5 @@
 
-# iSCSI Console Manager
+# iSCSI Connection Manager
 
 **Version:** 1.5  
 **Platform:** Ubuntu 22.04 / 24.04  

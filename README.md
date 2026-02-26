@@ -12,7 +12,7 @@
 
 ## Overview
 
-iSCSI Console Manager is a comprehensive bash-based utility for managing iSCSI initiator connections on Ubuntu systems. It provides a color-coded menu interface for installation, configuration, connection management, and maintenance of iSCSI storage devices.
+iSCSI Connection Manager is a comprehensive bash-based utility for managing iSCSI initiator connections on Ubuntu systems. It provides a color-coded menu interface for installation, configuration, connection management, and maintenance of iSCSI storage devices.
 
 ---
 
